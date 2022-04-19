@@ -1,0 +1,4 @@
+- Hello, My name is Memorie (not my real one :P), I am a c# dev from denmark
+- + I've been coding for 3 years, and decided to make my first client
+- + It will probably not be the best, but it will be at least good QwQ
+- + Thanks for visiting my profile
